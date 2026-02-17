@@ -2,8 +2,8 @@
 
 Análise Estratégica de Movimentações Desenvolvimento de um **dashboard gerencial financeiro**. O projeto foi desenvolvido no **Power BI** como parte de um projeto simulado com aplicação prática em cenários reais de controle e análise financeira.
 ---
-## 🔗 Acesse o Dashboard Online 👉 Visualize aqui:
-[Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjBhZTcwMzQtNGQxOC00YWI4LWJmYzYtOWIzY2EzODczNzIyIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
+## 🔗 Acesse o Dashboard Online 
+👉 Visualize aqui: [Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjBhZTcwMzQtNGQxOC00YWI4LWJmYzYtOWIzY2EzODczNzIyIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
 📌 Visualização do diagrama (print):  
 ![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-Financeiro/blob/main/dash%20financeiro.png)
