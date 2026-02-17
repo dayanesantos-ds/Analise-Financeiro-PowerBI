@@ -5,7 +5,7 @@ Análise Estratégica de Movimentações Desenvolvimento de um **dashboard geren
 ## 🔗 Acesse o Dashboard Online 
 👉 Visualize aqui: [Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjBhZTcwMzQtNGQxOC00YWI4LWJmYzYtOWIzY2EzODczNzIyIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
-📌 Visualização do diagrama (print):  
+📌 Visualização do Dashboard (print):  
 ![Diagrama do Banco](https://github.com/dayanesantos-ds/Analise-Financeiro/blob/main/dash%20financeiro.png)
 ---
 ## Objetivo do Projeto Fornecer uma visão consolidada dos principais indicadores financeiros, apoiando decisões estratégicas relacionadas a:
