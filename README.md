@@ -135,4 +135,4 @@ A análise possibilita:
 ---
 
 ### Autor
-Projeto desenvolvido por [Dayane Santos] . Em aprendizado com a Hashtag Treinamentos.
+Projeto desenvolvido por [Dayane Santos] . Em aprendizado com a Hashtag Treinamentos
